@@ -1,0 +1,5 @@
+a= int(input("Enter the no"))
+b= int(input("Enter the no"))
+c=int(input("Enter the no"))
+d=(a+b+c)
+print(d)
